@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Motus </h1>
 
 <p align="center">
- <img width="600" src="<iframe src="https://giphy.com/embed/mBhfvDOd7n8FPGBs6B" alt="gifka"/>
+ <img width="600" src="assets/gifka.GIF" alt="gifka"/>
 </p>
 
 ## About me
