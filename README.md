@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Motus </h1>
+<h1 align="center">👋 Hello!</h1>
 
 <p align="center">
  <img width="600" src="assets/gifka.GIF" alt="gifka"/>
