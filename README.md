@@ -10,4 +10,4 @@
 
 Python developer
 
-18 y.o.
+19 y.o.
